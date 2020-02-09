@@ -4,10 +4,9 @@ public class TwonumberInput {
 
 
 
-        static int x = 25;
-        static int y = 5;
-        public static void main(String[] args)
-        {
-            System.out.print(x*y);
+        public static void main(String[] args){
+
+            System.out.print("25x5 = ");
+            System.out.print(25*5);
     }
 }
